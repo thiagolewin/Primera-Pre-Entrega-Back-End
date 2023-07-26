@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Pan",
+    "description": "Elaborado con harina de trigo",
+    "code": "BRE109",
+    "price": 50,
+    "status": true,
+    "stock": 15,
+    "category": "food",
+    "thumbnails": [],
+    "id": 1
+  },
+  {
+    "title": "Agua Mineral",
+    "description": "Agua purificada en botella",
+    "code": "WTR301",
+    "price": 25,
+    "status": true,
+    "stock": 30,
+    "category": "drink",
+    "thumbnails": [],
+    "id": 2
+  },
+  {
+    "title": "Cepillo de dientes",
+    "description": "Cepillo de dientes suave con cerdas de nylon",
+    "code": "DNT789",
+    "price": "80",
+    "status": "true",
+    "stock": "20",
+    "category": "personal care",
+    "id": 3,
+    "thumbnails": [
+      "C:\\Users\\Thiago\\Desktop\\Entrega\\src\\public\\img\\cepillo.png"
+    ]
+  }
+]
